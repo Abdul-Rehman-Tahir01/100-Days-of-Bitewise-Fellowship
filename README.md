@@ -1,1 +1,1 @@
-# 100-Days-of-Bitewise-Fellowship
+# 100 Days of Bitewise Fellowship Program'24
