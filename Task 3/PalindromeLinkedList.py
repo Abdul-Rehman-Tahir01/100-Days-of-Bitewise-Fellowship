@@ -1,10 +1,12 @@
+# Implemented OOP
+
 class Node:
-    def __init__(self, data=None):
+    def __init__(self, data=None):   # Constructor
         self.data = data
         self.next = None
 
 class LinkedList:
-    def __init__(self):
+    def __init__(self):    # Constructor
         self.head = None
 
     def append(self, data):
@@ -14,7 +16,7 @@ class LinkedList:
             current = self.head
             while current.next:
                 current = current.next
-            current.next = Node(data)
+            current.next = Node(data)   # Linking the individual nodes of linked list by populating the next field of each node with the reference of next node.
 
     def print_list(self):
         current = self.head
@@ -34,13 +36,13 @@ for i in range(num_nodes):
     linked_list.append(node_data)
 
 print('\n')
-datalist = linked_list.print_list()
+data_list = linked_list.print_list()
 
 # Checking if the list is palindrome
 panlindrome = True
 
 for i in range(num_nodes):
-    if datalist[i] != datalist[num_nodes - 1 - i]:
+    if data_list[i] != data_list[num_nodes - 1 - i]:
         print("\n\nThe linked list is not a palindrome.")
         panlindrome = False
         break
