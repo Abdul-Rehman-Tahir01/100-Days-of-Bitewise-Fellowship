@@ -15,6 +15,7 @@ Before running the code, make sure you have the following dependencies installed
 - Pandas
 - NumPy
 - Matplotlib
+- Seaborn
 - Scikit-learn
 
 ## Analysis Overview
