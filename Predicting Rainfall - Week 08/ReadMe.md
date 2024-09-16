@@ -4,7 +4,7 @@ This project involves the prediction of rainfall using different machine learnin
 
 ## Dataset
 
-The rainfall dataset used for this prediction includes various features related to rainfall occurence, such as pressure, humidity, temperature, and the target variable: rainfall. This dataset is provided in the project directory or it can be downloaded directly by visiting the following link:
+The rainfall dataset used for this prediction includes various features related to rainfall occurence, such as pressure, humidity, temperature, and the target variable: rainfall. This dataset is provided in the project directory or it can be downloaded directly by visiting the following link: <br>
 <a href='https://media.geeksforgeeks.org/wp-content/uploads/20240510131249/Rainfall.csv' alt='Dataset Link'>Dataset Download Link</a>
 
 ## Prerequisites
