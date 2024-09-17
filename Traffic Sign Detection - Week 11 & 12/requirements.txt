@@ -6,5 +6,6 @@ keras
 tensorflow-hub
 pillow
 opencv-python
+flask
 
 
