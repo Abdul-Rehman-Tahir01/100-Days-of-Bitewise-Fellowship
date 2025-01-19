@@ -55,7 +55,7 @@ This project has two parts.
      
      ``` pip install streamlit ```
      
-  3. Locate to the project's directory where the UI.py file is located and run:
+  2. Locate to the project's directory where the UI.py file is located and run:
      
      ``` streamlit run UI.py ```
 
